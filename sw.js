@@ -1,4 +1,4 @@
-/* Ping Messenger — Service Worker  v1.0.0.0.1
+/* Ping Messenger — Service Worker  v1.0.0.0.2
    Offline app-shell, runtime caching (SDK, fonts, avatars) and notification clicks. */
 const VERSION = '1.0.0.0.1';
 const SHELL = 'ping-shell-' + VERSION, RT = 'ping-rt-' + VERSION;
